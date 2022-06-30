@@ -1,0 +1,17 @@
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\bin\Debug\net6.0\Concepts.Services.deps.json
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\bin\Debug\net6.0\Concepts.Services.dll
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\bin\Debug\net6.0\Concepts.Services.pdb
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\bin\Debug\net6.0\Concepts.Domain.dll
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\bin\Debug\net6.0\Concepts.Repository.dll
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\bin\Debug\net6.0\Concepts.Domain.pdb
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\bin\Debug\net6.0\Concepts.Repository.pdb
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\Concepts.Services.csproj.AssemblyReference.cache
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\Concepts.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\Concepts.Services.AssemblyInfoInputs.cache
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\Concepts.Services.AssemblyInfo.cs
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\Concepts.Services.csproj.CoreCompileInputs.cache
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\Concepts.Services.csproj.CopyComplete
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\Concepts.Services.dll
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\refint\Concepts.Services.dll
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\Concepts.Services.pdb
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Services\obj\Debug\net6.0\ref\Concepts.Services.dll

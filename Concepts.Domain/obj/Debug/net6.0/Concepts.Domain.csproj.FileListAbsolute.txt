@@ -1,0 +1,12 @@
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\bin\Debug\net6.0\Concepts.Domain.deps.json
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\bin\Debug\net6.0\Concepts.Domain.dll
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\bin\Debug\net6.0\Concepts.Domain.pdb
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\Concepts.Domain.csproj.AssemblyReference.cache
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\Concepts.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\Concepts.Domain.AssemblyInfoInputs.cache
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\Concepts.Domain.AssemblyInfo.cs
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\Concepts.Domain.csproj.CoreCompileInputs.cache
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\Concepts.Domain.dll
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\refint\Concepts.Domain.dll
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\Concepts.Domain.pdb
+D:\DEV\Pessoais\concepts\Concepts.API\Concepts.Domain\obj\Debug\net6.0\ref\Concepts.Domain.dll
